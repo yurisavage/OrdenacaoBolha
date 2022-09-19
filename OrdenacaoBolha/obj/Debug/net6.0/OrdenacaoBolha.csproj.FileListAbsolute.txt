@@ -1,0 +1,15 @@
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\bin\Debug\net6.0\OrdenacaoBolha.exe
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\bin\Debug\net6.0\OrdenacaoBolha.deps.json
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\bin\Debug\net6.0\OrdenacaoBolha.runtimeconfig.json
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\bin\Debug\net6.0\OrdenacaoBolha.dll
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\bin\Debug\net6.0\OrdenacaoBolha.pdb
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\OrdenacaoBolha.csproj.AssemblyReference.cache
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\OrdenacaoBolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\OrdenacaoBolha.AssemblyInfoInputs.cache
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\OrdenacaoBolha.AssemblyInfo.cs
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\OrdenacaoBolha.csproj.CoreCompileInputs.cache
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\OrdenacaoBolha.dll
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\refint\OrdenacaoBolha.dll
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\OrdenacaoBolha.pdb
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\OrdenacaoBolha.genruntimeconfig.cache
+C:\Users\yuri.ramos.f.souza\source\repos\OrdenacaoBolha\OrdenacaoBolha\obj\Debug\net6.0\ref\OrdenacaoBolha.dll
